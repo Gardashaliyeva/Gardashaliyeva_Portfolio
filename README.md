@@ -2,4 +2,5 @@
 ## Project 1: [Bina.az Real Estate Data Analysis](https://github.com/Gardashaliyeva/Bina_az_Real_Estate_Data_Analysis)
 
 The project based on the analysis of real estate data extracted from Bina.az website.
+![](https://github.com/Gardashaliyeva/Ilaha_Portfolio/blob/main/images/Screenshot%202025-07-05%20011513.png)
 
