@@ -6,6 +6,6 @@
 * The goal is to extract meaningful insights, identify trends, and provide a comprehensive understanding of the real estate market dynamics in Azerbaijan, particularly focusing on Baku. 
 * The analysis covers various aspects such as property pricing, location-based trends, property types, and the impact of different features on property values.
 * A heartfelt thank to [Aysel Jafarzade](https://github.com/JafarzadeAysel) for her invaluable support and guidance throughout my first project!
-![](https://github.com/Gardashaliyeva/Gardashaliyeva_Portfolio/blob/a1262c1fc2a6a966fd526c81021bc7b1e18e107c/images/Real-Estate-Data-Analysis.png)
-![](https://github.com/Gardashaliyeva/Gardashaliyeva_Portfolio/blob/main/images/Real-Estate-Data-Analysis.png)
+
+![](/images/Real-Estate-Data-Analysis.png)
 
